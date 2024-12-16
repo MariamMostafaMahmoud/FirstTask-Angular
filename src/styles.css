@@ -1,1 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #fff9eb;
+}
+ul{
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
+
+li{
+    list-style: none
+    
+}
+a{
+    text-decoration: none;
+    color: #393b5d;
+    padding: 7px;
+}
